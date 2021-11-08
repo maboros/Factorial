@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
-namespace Factorial.FactorialUnitTests
+namespace Factorial.UnitTests
 {
     [TestClass]
     public class TestFactorial

@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{BF2EC39C-5DE4-48B1-BF29-6564FF37691E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialUnitTests", "FactorialUnitTests\FactorialUnitTests.csproj", "{8AE92AAF-5BBE-4D50-9EBE-7CDCDDD4E32B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "FactorialUnitTests\UnitTests.csproj", "{8AE92AAF-5BBE-4D50-9EBE-7CDCDDD4E32B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
